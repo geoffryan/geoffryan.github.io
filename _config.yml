@@ -14,14 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Astrophysics On-The-Fly!
-email: gsryan@umd.edu
+author: Geoffrey Ryan
+# email: gsryan@umd.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website for Dr. Geoffrey Ryan.  Computational astrophysics,
-  numerical methods, gamma ray bursts, and accretion disks.
+  Personal website for Dr. Geoffrey Ryan.  Postdoctoral Associate in the
+  Department of Astronomy at University of Maryland College Park and the
+  Astroparticle Physics Lab at the NASA Goddard Space Flight Center.
+  Computational astrophysics, gamma ray bursts, accretion disks, and numerical
+  methods.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thegeoffryan
 github_username:  geoffryan
+
+logo: disk.png
 
 # Build settings
 markdown: kramdown
